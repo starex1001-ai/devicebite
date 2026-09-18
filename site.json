@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "기기한스푼",
+  "brand": "DEVICEBITE",
+  "mark": "DE",
+  "worker": "devicebite",
+  "url": "https://devicebite.webnote-lab.workers.dev",
+  "description": "기기한스푼의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "기기한스푼, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "기기한스푼의 정보와 실용 가이드를 정리합니다.",
+      "name": "기기한스푼",
+      "slug": "devicebite"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/devicebite/issues"
+}
